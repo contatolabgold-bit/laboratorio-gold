@@ -148,7 +148,7 @@ export default function AboutPage() {
           </div>
 
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black tracking-tight text-white uppercase leading-tight max-w-4xl mx-auto">
-            PENNAMC — UMA HISTÓRIA EM <span className="gold-gradient-text">CONSTANTE CONSTRUÇÃO</span>
+           UMA HISTÓRIA EM <span className="gold-gradient-text">CONSTANTE CONSTRUÇÃO</span>
           </h1>
 
           <p className="text-lg sm:text-xl font-medium text-amber-300 max-w-2xl mx-auto italic">
